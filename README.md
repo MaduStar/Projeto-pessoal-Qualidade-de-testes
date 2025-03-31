@@ -1,6 +1,6 @@
 # Projeto-pessoal-Qualidade-de-testes
 
-*Projeto de Gerenciamento de Biblioteca
+<h2> Projeto de Gerenciamento de Biblioteca </h2>
 
 O projeto consiste em criar um sistema de gerenciamento de uma biblioteca, onde os usuários podem:
 
